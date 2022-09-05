@@ -9,6 +9,17 @@ function App() {
         <Todo />
         <User />
       </header>
+
+      <p>
+        GitHub repo -{" "}
+        <a
+          href="https://github.com/harrsh2124/saga-toolkit"
+          target={"_blank"}
+          rel="noreferrer"
+        >
+          github.com/harrsh2124/saga-toolkit
+        </a>
+      </p>
     </div>
   );
 }
